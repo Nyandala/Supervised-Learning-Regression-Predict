@@ -12,3 +12,10 @@ Order_No                Time from Pickup to Arrival
 Order_No_19248          197  
 Order_No_12736          7533  
 Order_No_768            768  
+
+
+| Order_No        | Time from Pickup to Arrival  |
+| --------------- |------------------------------|
+| Order_No_19248  |                          197 |
+| Order_No_12736  |                         7533 |
+| Order_No_768    |                          768 |
