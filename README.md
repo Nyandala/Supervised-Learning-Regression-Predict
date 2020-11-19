@@ -1,6 +1,4 @@
-## Team 19 JHB Regression Predict Notebook  
----
-### Assignment: Predict the estimated time of arrival (ETA) for motorbike deliveries in Nairobi  
+### Assignment: Predict the estimated time of arrival (ETA) for motorbike deliveries 
 ---
 The error metric for this competition is the Root Mean Squared Error  
 
